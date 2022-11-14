@@ -17,8 +17,8 @@ const Aboutus = () => {
           </div>
         </div>
         <div className="flex justify-around flex-wrap">
-          <div className="self-center">
-            <div className="flex flex-wrap gap-10 mb-10">
+          <div className=" self-center">
+            <div className="main-about flex flex-wrap gap-10 mb-10">
               <div className="flex flex-col gap-y-2">
                 <div className="max-w-[34px]">
                   <span className="text-btnclr text-6xl font-bold">1</span>
@@ -46,7 +46,7 @@ const Aboutus = () => {
                 </div>
               </div>
             </div>
-            <div className="flex flex-wrap gap-10">
+            <div className="main-about flex flex-wrap gap-10">
               <div className="flex flex-col gap-y-2">
                 <div className="max-w-[34px]">
                   <span className="text-btnclr text-6xl font-bold">3</span>
