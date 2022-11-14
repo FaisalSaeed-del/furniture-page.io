@@ -18,7 +18,7 @@ const Hero = () => {
               chances are you will love the rest of the room.
             </p>
           </div>
-          <div className="hero-bg  bg-no-repeat bg-cover bg-center  relative">
+          <div className="hero-bg  bg-no-repeat bg-cover bg-center">
             <div className="flex justify-between p-4 items-center bg-white max-w-2xl mx-auto h-20 absolute left-0 right-0 -top-10  ">
               <input
                 className="w-full outline-none "
